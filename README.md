@@ -117,7 +117,7 @@ The expected output of the above command is:
 
 Alternatively, test the functionality of the endpoint running at <http://127.0.0.1:5000/api/docs/> by clicking the ```Try it out``` button.
 
-
+![open_api_desc](https://user-images.githubusercontent.com/9827474/94448647-6aeec380-01ab-11eb-8e67-66ea3d6d7e43.png)
 
 Run the automated test with the following command while the server is running:
 
